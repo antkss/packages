@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+rm antk.* &&repo-add antk.db.tar.gz *.pkg.tar* && mv antk.db.tar.gz antk.db
