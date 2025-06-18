@@ -1,4 +1,0 @@
-#!/usr/bin/bash
-mv antk.db antk.db.tar.gz
-repo-add antk.db.tar.gz $1
-mv antk.db.tar.gz antk.db
